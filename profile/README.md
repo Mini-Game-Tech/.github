@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:06b6d4&height=220&section=header&text=Mini-Game-Tech&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Classic%20arcade%20spirit.%20Modern%20cross-platform%20play.&descAlignY=60&descSize=17" alt="Mini-Game-Tech — Classic arcade spirit. Modern cross-platform play." />
 
   <p>
-    <a href="https://minigame-tech.github.io/minigame-tech.github.io/"><img src="https://img.shields.io/badge/PLAY%20ONLINE-Visit%20the%20arcade-06b6d4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit the arcade" /></a>
+    <a href="https://mini-game-tech.github.io/"><img src="https://img.shields.io/badge/PLAY%20ONLINE-Visit%20the%20arcade-06b6d4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit the arcade" /></a>
     <a href="https://github.com/Mini-Game-Tech"><img src="https://img.shields.io/badge/GitHub-Explore%20our%20projects-181717?style=for-the-badge&logo=github" alt="Explore our projects on GitHub" /></a>
   </p>
 
