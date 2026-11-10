@@ -19,7 +19,7 @@ Projects range from lightweight Python games to feature-rich C# experiences. Eac
 
 ## The arcade
 
-Play and explore the game collection on the [Mini-Game-Tech website](https://minigame-tech.github.io/minigame-tech.github.io/). Availability and supported downloads may vary by game; the website is the best place to find the current player-facing experience.
+Play and explore the game collection on the [Mini-Game-Tech website](https://mini-game-tech.github.io/). Availability and supported downloads may vary by game; the website is the best place to find the current player-facing experience.
 
 | Project | What it is | Technology |
 | :--- | :--- | :---: |
